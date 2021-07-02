@@ -1,0 +1,22 @@
+h1 {
+    color:rgb(255, 0, 0);
+    font: size 25px;
+    text-shadow: 2px 2px #000000; 
+}
+body {
+    font: 25px; 
+    background-image: url("paper.gif");
+    background-color: #5686ad;
+}
+h1 {                           
+    text-decoration: line-through;
+}
+body {
+    color: rgb(255, 0, 0);
+    text-shadow: #000000 .1em .1em 0em;
+}
+img.a {
+    width: 200px;
+    height: 400px;
+    object-fit: cover;
+  }    
